@@ -1,0 +1,114 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Style System",
+    "answer_3": "Creative Style Sheets",
+    "answer_4": "Color Style Syntax",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which property is used to change text color?",
+    "answer_1": "font-color",
+    "answer_2": "text-color",
+    "answer_3": "color",
+    "answer_4": "background-color",
+    "right_answer": "color"
+  },
+  {
+    "title": "Which property controls text size?",
+    "answer_1": "font-style",
+    "answer_2": "text-size",
+    "answer_3": "font-size",
+    "answer_4": "size",
+    "right_answer": "font-size"
+  },
+  {
+    "title": "How do you make text bold in CSS?",
+    "answer_1": "font-weight: bold",
+    "answer_2": "text:bold",
+    "answer_3": "style:bold",
+    "answer_4": "weight:bold",
+    "right_answer": "font-weight: bold"
+  },
+  {
+    "title": "Which property adds space inside an element?",
+    "answer_1": "margin",
+    "answer_2": "padding",
+    "answer_3": "border",
+    "answer_4": "spacing",
+    "right_answer": "padding"
+  },
+  {
+    "title": "Which property adds space outside an element?",
+    "answer_1": "padding",
+    "answer_2": "border",
+    "answer_3": "margin",
+    "answer_4": "outline",
+    "right_answer": "margin"
+  },
+  {
+    "title": "Which CSS property is used for background color?",
+    "answer_1": "bg-color",
+    "answer_2": "background-color",
+    "answer_3": "color-background",
+    "answer_4": "background-style",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "Which unit is relative in CSS?",
+    "answer_1": "px",
+    "answer_2": "cm",
+    "answer_3": "em",
+    "answer_4": "mm",
+    "right_answer": "em"
+  },
+  {
+    "title": "Which property controls element display type?",
+    "answer_1": "position",
+    "answer_2": "display",
+    "answer_3": "visibility",
+    "answer_4": "float",
+    "right_answer": "display"
+  },
+  {
+    "title": "Which property rounds corners?",
+    "answer_1": "border-style",
+    "answer_2": "border-radius",
+    "answer_3": "corner-radius",
+    "answer_4": "outline-radius",
+    "right_answer": "border-radius"
+  },
+  {
+    "title": "Which property controls shadow?",
+    "answer_1": "box-shadow",
+    "answer_2": "text-shadow",
+    "answer_3": "shadow",
+    "answer_4": "element-shadow",
+    "right_answer": "box-shadow"
+  },
+  {
+    "title": "How do you center text?",
+    "answer_1": "text-align: center",
+    "answer_2": "align-text: center",
+    "answer_3": "center-text: true",
+    "answer_4": "font-align: center",
+    "right_answer": "text-align: center"
+  },
+  {
+    "title": "Which property makes element invisible but keeps space?",
+    "answer_1": "display: none",
+    "answer_2": "visibility: hidden",
+    "answer_3": "opacity: 0",
+    "answer_4": "hidden: true",
+    "right_answer": "visibility: hidden"
+  },
+  {
+    "title": "Which property is used for Flexbox?",
+    "answer_1": "display: flex",
+    "answer_2": "flex: true",
+    "answer_3": "position: flex",
+    "answer_4": "align: flex",
+    "right_answer": "display: flex"
+  }
+]

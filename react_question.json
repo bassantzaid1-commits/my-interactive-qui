@@ -1,0 +1,114 @@
+[
+  {
+    "title": "What is React?",
+    "answer_1": "Database",
+    "answer_2": "JavaScript library",
+    "answer_3": "Backend framework",
+    "answer_4": "Operating system",
+    "right_answer": "JavaScript library"
+  },
+  {
+    "title": "Who created React?",
+    "answer_1": "Google",
+    "answer_2": "Facebook (Meta)",
+    "answer_3": "Microsoft",
+    "answer_4": "Apple",
+    "right_answer": "Facebook (Meta)"
+  },
+  {
+    "title": "What is JSX?",
+    "answer_1": "JavaScript XML",
+    "answer_2": "Java Syntax Extension",
+    "answer_3": "JSON XML",
+    "answer_4": "Java Script X",
+    "right_answer": "JavaScript XML"
+  },
+  {
+    "title": "React uses which concept?",
+    "answer_1": "DOM manipulation directly",
+    "answer_2": "Virtual DOM",
+    "answer_3": "Server DOM",
+    "answer_4": "Static DOM",
+    "right_answer": "Virtual DOM"
+  },
+  {
+    "title": "Which hook is used for state?",
+    "answer_1": "useEffect",
+    "answer_2": "useState",
+    "answer_3": "useRef",
+    "answer_4": "useMemo",
+    "right_answer": "useState"
+  },
+  {
+    "title": "React is built by?",
+    "answer_1": "Google",
+    "answer_2": "Meta",
+    "answer_3": "Amazon",
+    "answer_4": "Netflix",
+    "right_answer": "Meta"
+  },
+  {
+    "title": "React components are?",
+    "answer_1": "Functions or classes",
+    "answer_2": "Databases",
+    "answer_3": "Servers",
+    "answer_4": "Files only",
+    "right_answer": "Functions or classes"
+  },
+  {
+    "title": "Which method updates UI?",
+    "answer_1": "setState",
+    "answer_2": "updateUI",
+    "answer_3": "refresh",
+    "answer_4": "renderHTML",
+    "right_answer": "setState"
+  },
+  {
+    "title": "React uses?",
+    "answer_1": "Two-way binding",
+    "answer_2": "One-way data flow",
+    "answer_3": "No data flow",
+    "answer_4": "Random flow",
+    "right_answer": "One-way data flow"
+  },
+  {
+    "title": "React is mainly for?",
+    "answer_1": "Backend",
+    "answer_2": "Mobile apps only",
+    "answer_3": "UI development",
+    "answer_4": "Database design",
+    "right_answer": "UI development"
+  },
+  {
+    "title": "Which company maintains React?",
+    "answer_1": "Google",
+    "answer_2": "Meta",
+    "answer_3": "Microsoft",
+    "answer_4": "Apple",
+    "right_answer": "Meta"
+  },
+  {
+    "title": "React uses JSX which looks like?",
+    "answer_1": "HTML inside JS",
+    "answer_2": "CSS inside JS",
+    "answer_3": "SQL inside JS",
+    "answer_4": "Python inside JS",
+    "right_answer": "HTML inside JS"
+  },
+  {
+    "title": "Which hook runs after render?",
+    "answer_1": "useState",
+    "answer_2": "useEffect",
+    "answer_3": "useRef",
+    "answer_4": "useMemo",
+    "right_answer": "useEffect"
+  },
+  {
+    "title": "React apps are built from?",
+    "answer_1": "Pages",
+    "answer_2": "Components",
+    "answer_3": "Tables",
+    "answer_4": "Files",
+    "right_answer": "Components"
+  }
+]

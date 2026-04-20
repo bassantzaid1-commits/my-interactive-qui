@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Which keyword declares a variable?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "Which method prints to console?",
+    "answer_1": "console.write()",
+    "answer_2": "print()",
+    "answer_3": "console.log()",
+    "answer_4": "log.console()",
+    "right_answer": "console.log()"
+  },
+  {
+    "title": "What is JavaScript used for?",
+    "answer_1": "Styling pages",
+    "answer_2": "Database management",
+    "answer_3": "Web interactivity",
+    "answer_4": "Design only",
+    "right_answer": "Web interactivity"
+  },
+  {
+    "title": "Which symbol is used for comments?",
+    "answer_1": "//",
+    "answer_2": "<!-- -->",
+    "answer_3": "#",
+    "answer_4": "**",
+    "right_answer": "//"
+  },
+  {
+    "title": "Which is a correct function?",
+    "answer_1": "function myFunc() {}",
+    "answer_2": "func myFunc() {}",
+    "answer_3": "def myFunc()",
+    "answer_4": "function:myFunc()",
+    "right_answer": "function myFunc() {}"
+  },
+  {
+    "title": "Which is a strict comparison operator?",
+    "answer_1": "==",
+    "answer_2": "=",
+    "answer_3": "===",
+    "answer_4": "!=",
+    "right_answer": "==="
+  },
+  {
+    "title": "Which object is global in JS?",
+    "answer_1": "window",
+    "answer_2": "document",
+    "answer_3": "html",
+    "answer_4": "body",
+    "right_answer": "window"
+  },
+  {
+    "title": "How do you create an array?",
+    "answer_1": "[]",
+    "answer_2": "{}",
+    "answer_3": "()",
+    "answer_4": "<>",
+    "right_answer": "[]"
+  },
+  {
+    "title": "Which loop exists in JS?",
+    "answer_1": "for",
+    "answer_2": "while",
+    "answer_3": "do...while",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "Which is correct JSON format?",
+    "answer_1": "{key: value}",
+    "answer_2": "{'key': 'value'}",
+    "answer_3": "{'key': 'value'}",
+    "answer_4": "[key=value]",
+    "right_answer": "{key: value}"
+  },
+  {
+    "title": "Which function converts string to number?",
+    "answer_1": "parseInt()",
+    "answer_2": "toString()",
+    "answer_3": "NumberToString()",
+    "answer_4": "convert()",
+    "right_answer": "parseInt()"
+  },
+  {
+    "title": "Which keyword stops loop?",
+    "answer_1": "stop",
+    "answer_2": "exit",
+    "answer_3": "break",
+    "answer_4": "end",
+    "right_answer": "break"
+  },
+  {
+    "title": "Which is a DOM method?",
+    "answer_1": "getElementById",
+    "answer_2": "querySelector",
+    "answer_3": "Both",
+    "answer_4": "None",
+    "right_answer": "Both"
+  },
+  {
+    "title": "Which is used for events?",
+    "answer_1": "onclick",
+    "answer_2": "onhover",
+    "answer_3": "onstart",
+    "answer_4": "onrun",
+    "right_answer": "onclick"
+  }
+]

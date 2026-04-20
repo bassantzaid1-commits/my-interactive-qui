@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To make text bold ",
+        "answer_2": "To make text italic ",
+        "answer_3": "To make horizontal line ",
+        "answer_4": "To add break line",
+        "right_answer": "To add break line"
+    },
+    {
+        "title": "Is img Element Has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No Its For Anchor Tag <a>",
+        "answer_3": "All Elements Has This Attribute",
+        "answer_4": "Answer 1 And 3 Is Right",
+        "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+        "title": "How Can We Make Element Text Bold",
+        "answer_1": "Putting It Inside <b> Tag",
+        "answer_2": "Putting It Inside <strong> Tag",
+        "answer_3": "Customizing It With font-weight Property In CSS",
+        "answer_4": "All Answers Is Right",
+        "right_answer": "All Answers Is Right"
+    },
+    {
+  "title": "What Does HTML Stand For",
+  "answer_1": "Hyper Text Markup Language",
+  "answer_2": "Home Tool Markup Language",
+  "answer_3": "Hyperlinks Text Mark Language",
+  "answer_4": "Hyper Tool Multi Language",
+  "right_answer": "Hyper Text Markup Language"
+},
+{
+  "title": "What Is The Correct Structure Of An HTML Document?",
+  "answer_1": "Head And Body Only",
+  "answer_2": "Title And Footer Only",
+  "answer_3": "Head And Body Inside HTML",
+  "answer_4": "Only Body",
+  "right_answer": "Head And Body Inside HTML"
+},
+{
+  "title": "Which Property Is Used To Change Text Color In CSS",
+  "answer_1": "background-color",
+  "answer_2": "font-color",
+  "answer_3": "color",
+  "answer_4": "text-style",
+  "right_answer": "color"
+},
+{
+  "title": "Where Is The Correct Place To Insert A Title?",
+  "answer_1": "Inside Body Section",
+  "answer_2": "Inside Head Section",
+  "answer_3": "After Footer",
+  "answer_4": "Inside Paragraph",
+  "right_answer": "Inside Head Section"
+},
+{
+  "title": "Which Symbol Is Used For Comments In JavaScript",
+  "answer_1": "//",
+  "answer_2": "<!-- -->",
+  "answer_3": "##",
+  "answer_4": "**",
+  "right_answer": "//"
+},
+{
+  "title": "Which Method Is Used To Print In Console In JavaScript",
+  "answer_1": "console.write()",
+  "answer_2": "print()",
+  "answer_3": "console.log()",
+  "answer_4": "log.console()",
+  "right_answer": "console.log()"
+},
+{
+  "title": "Which Attribute Is Used To Provide A Unique Name For An Element?",
+  "answer_1": "class",
+  "answer_2": "id",
+  "answer_3": "style",
+  "answer_4": "name",
+  "right_answer": "id"
+},
+  {
+    "title": "Which Attribute Is Used To Provide Alternative Text For Images",
+    "answer_1": "src",
+    "answer_2": "alt",
+    "answer_3": "title",
+    "answer_4": "href",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Which CSS Property Controls The Size Of Text",
+    "answer_1": "font-size",
+    "answer_2": "text-size",
+    "answer_3": "size",
+    "answer_4": "font-style",
+    "right_answer": "font-size"
+  },
+{
+    "title": "Which Attribute Is Used To Provide Alternative Text For Images",
+    "answer_1": "src",
+    "answer_2": "alt",
+    "answer_3": "title",
+    "answer_4": "href",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Which CSS Property Controls The Size Of Text",
+    "answer_1": "font-size",
+    "answer_2": "text-size",
+    "answer_3": "size",
+    "answer_4": "font-style",
+    "right_answer": "font-size"
+  }
+]
